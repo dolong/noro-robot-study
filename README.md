@@ -1,6 +1,6 @@
 # noro-robot-study
 Pine Script Study with Alerts
-
+Original URL: https://www.tradingview.com/script/vFA4zd3X-robot-bitmex-fast-rsi-v1-0/
 ```
 
 //@version=2
